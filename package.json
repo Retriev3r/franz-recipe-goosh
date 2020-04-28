@@ -1,0 +1,13 @@
+{
+  "id": "milanote",
+  "name": "Milanote",
+  "version": "1.0.0",
+  "description": "Milanote",
+  "main": "index.js",
+  "author": "dgcst",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.milanote.com/login",
+    "hasTeamID": false
+  }
+}
