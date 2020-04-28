@@ -6,7 +6,7 @@ This recipe only works for Franz 5.X, find it at http://meetfranz.com
 
 ## Installation
 
-1. Clone/download the folder `franz-recipe-evernote`.
+1. Clone/download the folder `franz-recipe-milanote`.
 
 2. Open the Franz Recipe folder on your machine:
   * Mac: `~/Library/Application Support/Franz/recipes/`
