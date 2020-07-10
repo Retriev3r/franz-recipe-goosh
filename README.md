@@ -1,9 +1,11 @@
 # Google Shell (GooSh.org) for Franz
 This is the Franz 5 Recipe for Goosh.org
 
-With goosh.org you can load pretty much every URL inside franz/ferdi simply with the command "go".
+With goosh.org you can load pretty much every URL inside franz/ferdi simply with the command `go`.
 
-For example » "go ecosia.org" will open ecosia.org website.
+Example 1 » `go ecosia.org` will open ecosia.org website.
+
+Example 2 » `go https://www.youtube.com/watch?v=bTqVqk7FSmY` will open the YT video.
 
 ## Requirements
 This recipe only works for Franz 5.X, find it at http://meetfranz.com
