@@ -1,13 +1,13 @@
 {
-  "id": "milanote",
-  "name": "Milanote",
+  "id": "goosh",
+  "name": "GooSh",
   "version": "1.0.0",
-  "description": "Milanote",
+  "description": "Google Shell - use the 'go' command to open any URL",
   "main": "index.js",
-  "author": "dgcst",
+  "author": "Ben Wagner <Ben.cc5a29@burnermail.io>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://app.milanote.com/login",
+    "serviceURL": "https://goosh.org/",
     "hasTeamID": false
   }
 }
