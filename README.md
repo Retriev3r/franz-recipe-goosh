@@ -2,7 +2,8 @@
 This is the Franz 5 Recipe for Goosh.org
 
 With goosh.org you can load pretty much every URL inside franz/ferdi simply with the command "go".
-For example » "go ecosia.org" will open ecosia.org website inside the franz/fredi app.
+
+For example » "go ecosia.org" will open ecosia.org website.
 
 ## Requirements
 This recipe only works for Franz 5.X, find it at http://meetfranz.com
